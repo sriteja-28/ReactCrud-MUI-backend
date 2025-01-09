@@ -9,18 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UmaSahni/project_data.git"
+    "url": "git+https://github.com/sriteja-28/ReactCrud-MUI-backend.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "M.Sriteja",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/UmaSahni/project_data/issues"
-  },
-  "homepage": "https://github.com/UmaSahni/project_data#readme",
+
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
     "json-server": "^0.17.1"
   }
 }
+
